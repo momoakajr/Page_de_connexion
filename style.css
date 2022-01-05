@@ -5,14 +5,19 @@ body{
     display: block;
     border: solid 1px #FFFFFF;
     padding-top: 10%;
-    padding: 50px 50px;
+    padding: 50px 10px 50px 10px;
     border-radius: 10px;
     width: 20%;
 }
 .log:hover{
     color:#95911B ;
-    margin-left: -5%;
 }
 .mdp:hover{
     color: #95911B;
+}
+.log{
+    padding-right: 135px;
+}
+.mdp{
+    padding-right: 115px;
 }
